@@ -1,3 +1,5 @@
+กฏ 	กฎ 	Yes check.svg Yes check.svg Yes check.svg
+เกมส์ 	เกม 	Yes check.svg Yes check.svg               
 ก๊กกะ, กิ๊กกะ, กิกะ	จิกะ	Yes check.svg	Yes check.svg		ระวัง ทะกิกะวะ และอีกมากมาย คำว่า กิกะ ไม่ควรนำมาใช้เป็นอย่างยิ่ง (แยก false positive ยากจัด)
 กฏหมาย	กฎหมาย	Yes check.svg	Yes check.svg	Yes check.svg
 กรกฏาคม	กรกฎาคม	Yes check.svg	Yes check.svg	
@@ -11,7 +13,7 @@
 คริสตศาสนา	คริสต์ศาสนา	Yes check.svg	Yes check.svg	
 คริสต์กาล	คริสตกาล	Yes check.svg	Yes check.svg	
 คริสต์เตียน	คริสเตียน	Yes check.svg	Yes check.svg	
-คริสมาส คริสมาสต์	คริสต์มาส	Yes check.svg	Yes check.svg	
+คริสมาส, คริสมาสต์	คริสต์มาส	Yes check.svg	Yes check.svg	
 คลีนิก	คลินิก	Yes check.svg	Yes check.svg	
 คำนวน	คำนวณ	Yes check.svg	Yes check.svg	
 เคเบิ้ล	เคเบิล	Yes check.svg	Yes check.svg	
@@ -19,7 +21,7 @@
 โครงการณ์	โครงการ	Yes check.svg	Yes check.svg	
 งบดุลย์	งบดุล	Yes check.svg	Yes check.svg	
 ซอฟท์แวร์	ซอฟต์แวร์	Yes check.svg	Yes check.svg	Yes check.svg
-ซีรี่ส์ ซีรีย์ ซีรี่ย์	ซีรีส์	Yes check.svg	Yes check.svg	
+ซีรี่ส์, ซีรีย์, ซีรี่ย์	ซีรีส์	Yes check.svg	Yes check.svg	
 เซ็นติ	เซนติ	Yes check.svg	Yes check.svg	
 เซอร์เวอร์	เซิร์ฟเวอร์	Yes check.svg	Yes check.svg	
 ฑูต	ทูต	Yes check.svg	Yes check.svg	
@@ -33,16 +35,16 @@
 โน๊ต	โน้ต	Yes check.svg		
 บรรได	บันได	Yes check.svg	Yes check.svg	
 บรรเทิง	บันเทิง	Yes check.svg	Yes check.svg		ระวังคุณกรรณิการ์ บรรเทิงจิตร
-บราวเซอร์ เบราเซอร์	เบราว์เซอร์	Yes check.svg	Yes check.svg	Yes check.svg
-บล็อค บล๊อค บล๊อก	บล็อก	Yes check.svg	Yes check.svg	
+บราวเซอร์, เบราเซอร์	เบราว์เซอร์	Yes check.svg	Yes check.svg	Yes check.svg
+บล็อค, บล๊อค, บล๊อก	บล็อก	Yes check.svg	Yes check.svg	
 เบรค	เบรก	Yes check.svg	Yes check.svg		ระวังกล้ามเนื้อ? กลุ่มเบรคิไอ เบรคิโอ ทั้งหลาย
 ไบท์	ไบต์	Yes check.svg	Yes check.svg		ระวัง ขบวนการจาโคไบท์
 ปฎิ	ปฏิ	Yes check.svg	Yes check.svg	
-ปฏิกริยา ปฎิกริยา	ปฏิกิริยา	Yes check.svg	Yes check.svg	Yes check.svg
+ปฏิกริยา, ปฎิกริยา	ปฏิกิริยา	Yes check.svg	Yes check.svg	Yes check.svg
 ปรากฎ	ปรากฏ	Yes check.svg	Yes check.svg	
 ปราถนา	ปรารถนา	Yes check.svg	Yes check.svg	
-ปีรามิด ปิระมิด	พีระมิด	Yes check.svg	Yes check.svg	Yes check.svg
-โปรเจค โปรเจคท์ โปรเจคต์ โปรเจ็ค โปรเจ็คท์ โปรเจ็คต์	โปรเจกต์	Yes check.svg	Yes check.svg	
+ปีรามิด, ปิระมิด	พีระมิด	Yes check.svg	Yes check.svg	Yes check.svg
+โปรเจค, โปรเจคท์, โปรเจคต์, โปรเจ็ค, โปรเจ็คท์, โปรเจ็คต์	โปรเจกต์	Yes check.svg	Yes check.svg	
 โปรโตคอล	โพรโทคอล	Yes check.svg	Yes check.svg	
 ผลลัพท์	ผลลัพธ์	Yes check.svg	Yes check.svg	
 ผูกพันธ์	ผูกพัน	Yes check.svg	Yes check.svg	
@@ -54,15 +56,12 @@
 เยอรมันนี	เยอรมนี	Yes check.svg	Yes check.svg	
 รถยนตร์	รถยนต์	Yes check.svg	Yes check.svg	
 ร็อค	ร็อก	Yes check.svg		
-ล็อค	ล็อก	Yes check.svg	Yes check.svg		ระวังชื่ออื่น ๆ
-ลอส แองเจลิส, ลอส แองเจลลิส,ลอส แองเจลีส, ลอสแองเจลิส, ลอสแองเจลีส,
-ลอสแองเจลลิส, ลอสแองเจอลิส, ลอสแองเจอลีส, ลอสแอนเจลลิส
-
-ลอสแอนเจลิส	Yes check.svg	Yes check.svg	
+ล็อค	ล็อก	Yes check.svg	Yes check.svgv		ระวังชื่ออื่น ๆ
+ลอส แองเจลิส, ลอส แองเจลลิส,ลอส แองเจลีส, ลอสแองเจลิส, ลอสแองเจลีส, ลอสแองเจลลิส, ลอสแองเจอลิส, ลอสแองเจอลีส, ลอสแอนเจลลิส	ลอสแอนเจลิส	Yes check.svg	Yes check.svg	
 ลายเซ็นต์	ลายเซ็น	Yes check.svg	Yes check.svg	
-ลิ้งค์ ลิ๊งค์ ลิ้งก์ ลิ๊งก์	ลิงก์	Yes check.svg	Yes check.svg	
+ลิ้งค์, ลิ๊งค์, ลิ้งก์, ลิ๊งก์	ลิงก์	Yes check.svg	Yes check.svg	
 เวคเตอร์	เวกเตอร์	Yes check.svg	Yes check.svg	
-เวทย์มนตร์ เวทย์มนต์ เวทมนต์	เวทมนตร์	Yes check.svg	Yes check.svg	
+เวทย์มนตร์, เวทย์มนต์, เวทมนต์	เวทมนตร์	Yes check.svg	Yes check.svg	
 เวบไซท์, เวบไซต์, เวบไซท์, เว็บไซท์, เว็บไซต	เว็บไซต์	Yes check.svg	Yes check.svg	Yes check.svg
 เวอร์ชั่น	เวอร์ชัน	Yes check.svg	Yes check.svg	
 เวิล์ด	เวิลด์	Yes check.svg	Yes check.svg	
@@ -74,7 +73,7 @@
 สวดมน, สวดมนตร์	สวดมนต์	Yes check.svg	Yes check.svg		
 สวรรณคต	สวรรคต	Yes check.svg	Yes check.svg	
 อโดบี	อะโดบี	Yes check.svg	Yes check.svg	
-อะนิเม อานิเมะ อะนิเม	อนิเมะ	Yes check.svg	Yes check.svg		ตามการสรุปใหม่ในการอภิปรายหน้านี้
+อะนิเม, อานิเมะ, อะนิเม	อนิเมะ	Yes check.svg	Yes check.svg		ตามการสรุปใหม่ในการอภิปรายหน้านี้
 อนุญาติ	อนุญาต	Yes check.svg	Yes check.svg	
 อลูมิเนียม	อะลูมิเนียม	Yes check.svg	Yes check.svg	
 ออบเจ็ค, ออปเจ็ค, ออปเจค	อ็อบเจกต์	Yes check.svg	Yes check.svg	
@@ -87,5 +86,4 @@
 เอ็นจิ้น, เอ็นจิน, เอนจิ้น	เอนจิน	Yes check.svg	Yes check.svg	
 เอล์ฟ	เอลฟ์	Yes check.svg	Yes check.svg	
 เอาท์พุต, เอาท์พุท	เอาต์พุต	Yes check.svg	Yes check.svg	
-แอปพลิเคชั่น แอพพลิเคชั่น แอพพลิเคชัน แอพพลิคเคชัน	แอปพลิเคชัน	Yes check.svg	Yes check.svg	Yes check.svg
-ทรง(เสวย|ประชวร|มีพระ|เป็นพระ|เสด็จ|บรรทม|ผนวช|ทอดพระเนตร|สวรรคต)	$1	Yes check.svg	
+แอปพลิเคชั่น, แอพพลิเคชั่น, แอพพลิเคชัน, แอพพลิคเคชัน	แอปพลิเคชัน	Yes check.svg	Yes check.svg	Yes check.svg
